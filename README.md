@@ -1,3 +1,5 @@
+For Turkish documentation, see [README_TR.md](./README_TR.md).
+
 # 🛰️ Pi Sentinel — Smart Home Security System (AI + IoT)
 
 **Pi Sentinel** integrates Artificial Intelligence (AI) and Internet of Things (IoT) technologies to provide a low-cost, portable, and energy-efficient smart home security system on **Raspberry Pi Zero 2 W**.
@@ -71,6 +73,3 @@ It provides a robust foundation for **academic research**, **small businesses**,
 This project is open source under the **MIT License**.  
 See [LICENSE](./LICENSE) for details.
 
----
-
-For Turkish documentation, see [README_TR.md](./README_TR.md).
